@@ -5,7 +5,6 @@ module.exports = {
       options: {},
     },
   ],
-  // Customize your site metadata:
   siteMetadata: {
     title: `Artbees`,
     author: `Artbees`,
